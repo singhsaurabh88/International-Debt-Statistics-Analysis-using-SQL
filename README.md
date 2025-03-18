@@ -27,6 +27,8 @@ The dataset can be found on the World Bank website:
 - **Database Management System**: You can use MySQL, PostgreSQL, or any other SQL-compliant system.
 
 ## Project Structure
+
+- `queries.sql`: Contains all the SQL queries used for the project.
 - `README.md`: This file, providing project overview and instructions.
   
 ## Setup Instructions

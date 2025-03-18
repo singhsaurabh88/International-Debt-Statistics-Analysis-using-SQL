@@ -37,10 +37,3 @@ The dataset can be found on the World Bank website:
 2. Import the dataset into your SQL database management system.
 3. Run the SQL queries from `queries.sql` to perform the analysis.
 
-## Contributing
-
-Feel free to fork this repository, submit issues, or create pull requests. If you have suggestions or improvements, we welcome contributions!
-
-## License
-
-This project is licensed under the MIT License.
